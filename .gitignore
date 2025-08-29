@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.egg-info/
+.eggs/
+
+# Coverage / Test files
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Uvicorn / Gunicorn pid files
+*.pid
+
+# Mongo dump files
+dump/
+*.bson
+*.json
+
+# Docker
+docker-compose.override.yml

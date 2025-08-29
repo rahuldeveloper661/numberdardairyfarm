@@ -1,0 +1,10 @@
+git init <folder_name>
+git remote add origin <remote_url>
+git add <filename>
+git commit -m <message>
+git push -u origin <branch>
+
+git branch 
+git branch <new_branch_name>
+
+git checkout <branch_ame>
